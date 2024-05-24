@@ -16,3 +16,19 @@ body {
     background-color: black;
     text-align: center;
 }
+
+.link-container {
+    outline: 5px solid black;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    max-height: fit-content;
+    margin: 32px;
+    height: 100px;
+    gap: 8px;
+}
+
+.links {
+    display: flex;
+    gap: 200px;
+ }
